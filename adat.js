@@ -1,0 +1,18 @@
+export const KEPEKLISTA = [
+  "memo-master/kepek/kep1.jpg",
+  "memo-master/kepek/kep2.jpg",
+  "memo-master/kepek/kep3.jpg",
+  "memo-master/kepek/kep4.jpg",
+  "memo-master/kepek/kep5.jpg",
+  "memo-master/kepek/kep6.jpg",
+  "memo-master/kepek/kep7.jpg",
+  "memo-master/kepek/kep8.jpg",
+  "memo-master/kepek/kep1.jpg",
+  "memo-master/kepek/kep2.jpg",
+  "memo-master/kepek/kep3.jpg",
+  "memo-master/kepek/kep4.jpg",
+  "memo-master/kepek/kep5.jpg",
+  "memo-master/kepek/kep6.jpg",
+  "memo-master/kepek/kep7.jpg",
+  "memo-master/kepek/kep8.jpg",
+];
